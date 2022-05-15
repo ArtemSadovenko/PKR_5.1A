@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\visual studio projects\PKR_5.2A\Source.cpp(197,37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  PKR_5.2A.vcxproj -> D:\visual studio projects\PKR_5.2A\Debug\PKR_5.2A.exe
